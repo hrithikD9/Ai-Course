@@ -1,5 +1,7 @@
 # 🌳 Alpha-Beta Pruning Algorithm
 
+![ABP-Algo-Banner](https://imgs.search.brave.com/C2OcIrif6VOgIX-c-nkndYXtb46yhE-KHMmaLgTVhsc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9haS1m/YWxsMjAyMi5haTJl/cy5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDgvYWxw/aGFCZXRhX3Y0Lmdp/Zg.gif)
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [How the Algorithm Works](#how-the-algorithm-works)
