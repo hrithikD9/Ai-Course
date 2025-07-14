@@ -99,7 +99,7 @@ In the [ai-tools-exploration](./ai-tools-exploration) section, I explored modern
 
 ## 👨‍🏫 Course Supervisor
 
-**[Razorshi Prozzal Talukder](https://www.linkedin.com/)**
+**[Razorshi Prozzal Talukder](https://www.linkedin.com/in/razorshi-talukder-141425198/)**
 
 ---
 
